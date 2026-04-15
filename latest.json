@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "dateLabel": "2026-04-13",
-  "downloadUrl": "https://github.com/ylicen/luminadb-updates/releases/download/v1.2.0/LuminaDB-Setup-v1.2.0.exe",
+  "version": "1.2.1",
+  "dateLabel": "2026-04-15",
+  "downloadUrl": "https://dl.ylicen.top/luminadb/LuminaDB-Setup-v1.2.1.exe",
   "highlights": [
-    "修复一些bug"
+    "更换下载源为r2对象存储，更新国内可用"
   ]
 }
